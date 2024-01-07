@@ -1,0 +1,17 @@
+MONGO_URI =
+SECRET =
+
+# for google login
+
+GOOGLE_CLIENT_ID =
+GOOGLE_CLIENT_SECRET =
+
+# for facebook login
+
+FACEBOOK_APP_ID =
+FACEBOOK_APP_SECRET =
+
+# for github login
+
+GITHUB_CLIENT_ID =
+GITHUB_CLIENT_SECRET =
